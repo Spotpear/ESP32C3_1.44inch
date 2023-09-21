@@ -39,8 +39,8 @@
 
 
 //此处添加WIFI信息或者个人热点WLAN信息
-const char *ssid     = "";  //Wifi名字 
-const char *password = ""; //Wifi密码 
+const char *ssid     = "apo";  //Wifi名字 
+const char *password = "1234567890"; //Wifi密码 
 
 // const char *ssid     = "spotpear";  //Wifi名字 
 // const char *password = "12345678"; //Wifi密码 
